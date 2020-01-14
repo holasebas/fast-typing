@@ -1,0 +1,48 @@
+var setShort = [
+    { spanish: "TU", english: "YOU" },
+    { spanish: "HOLA", english: "HI" },
+    { spanish: "FELIZ", english: "HAPPY" },
+    { spanish: "LLAVES", english: "KEYS" },
+    { spanish: "FOLDER", english: "FOLDER" },
+    { spanish: "LAPIZ", english: "LIPSTICK" },
+    { spanish: "BELLO", english: "BEAUTIFUL" },
+    { spanish: "FACEBOOK", english: "FACEBOOK" },
+    { spanish: "MESERA", english: "WAITRESS" },
+    { spanish: "ABOGADO", english: "LAWYER" },
+    { spanish: "PILOTO", english: "PILOT" },
+    { spanish: "PUERTA", english: "DOOR" },
+    { spanish: "LUZ", english: "LIGHT" },
+    { spanish: "GATO", english: "CAT" },
+    { spanish: "CAJA", english: "BOX" },
+    { spanish: "RAPIDO", english: "FAST" }
+]
+var setMid = [
+    { spanish: "TOMA UN LAPIZ", english: "GET A PEN" },
+    { spanish: "SOY FELIZ", english: "I AM HAPPY" },
+    { spanish: "TOMAR AGUA", english: "DRINK WATER" },
+    { spanish: "ES UNA TRAMPA", english: "IT IS A TRAP" },
+    { spanish: "AHI HAY UN MAPA", english: "THERE IS A MAP" },
+    { spanish: "TOMAR UNA FOTO", english: "TAKE A PICTURE" },
+    { spanish: "TENGO UNA MONEDA", english: "I HAVE A COIN" },
+    { spanish: "NECESITO LAS LLAVES", english: "I NEED THE KEYS" },
+    { spanish: "UNA BOTELLA DE AGUA", english: "A BOTTLE OF WATER" },
+    { spanish: "NECESITO UN DOCTOR", english: "I NEED A DOCTOR" },
+    { spanish: "ASISTENTE DE VENTAS", english: "SHOP ASSISTANT" },
+    { spanish: "PAR DE LENTES", english: "PAIR OF GLASSES" },
+    { spanish: "OFICIAL DE POLICIA", english: "POLICE OFFICER" },
+    { spanish: "MAS RAPIDO", english: "FASTER" },
+    { spanish: "LINDO PERRO", english: "NICE DOG" },
+    { spanish: "PIO PIO PIO", english: "PIO PIO PIO" },
+]
+var setLong = [
+    { spanish: "NO QUIERO IR A LA FIESTA", english: "I DONT WANT TO GO TO THE PARTY" },
+    { spanish: "QUIERO APRENDER A TOCAR LA GUITARRA", english: "I WOULD LIKE TO LEARN HOW TO PLAY GUITAR"},
+    { spanish: "GIVE ME YOUR BEST SHOT", english: "DAME TU MEJOR TIRO" },
+    { spanish: "VOY A COMPRAR UN CARRO", english: "I AM GOING TO BUY A CAR" },
+    { spanish: "ESTA TIPOGRIA NO ME AYUDA", english: "THIS TYPOGRIA DOES NOT HELP ME" },
+    { spanish: "DONDE COMPRASTE ESOS LENTES", english: "WHERE DID YOU BUY THOSE SUNGLASSES" },
+    { spanish: "LOS PERROS HICIERON POPO", english: "THE DOGS DID POP" },
+    { spanish: "SOY EXTREMADAMENTE FELIZ", english: "I AM EXTREMELY HAPPY" },
+    { spanish: "YO AMO A SELENA GOMEZ", english: "I LOVE SELENA GOMEZ" },
+    { spanish: "NO ERA PENAL", english: "IT WAS NOT A PENALTY" }
+]
