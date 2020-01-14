@@ -37,9 +37,9 @@ var setMid = [
 var setLong = [
     { spanish: "NO QUIERO IR A LA FIESTA", english: "I DONT WANT TO GO TO THE PARTY" },
     { spanish: "QUIERO APRENDER A TOCAR LA GUITARRA", english: "I WOULD LIKE TO LEARN HOW TO PLAY GUITAR"},
-    { spanish: "GIVE ME YOUR BEST SHOT", english: "DAME TU MEJOR TIRO" },
+    { spanish: "DAME TU MEJOR TIRO", english: "GIVE ME YOUR BEST SHOT" },
     { spanish: "VOY A COMPRAR UN CARRO", english: "I AM GOING TO BUY A CAR" },
-    { spanish: "ESTA TIPOGRIA NO ME AYUDA", english: "THIS TYPOGRIA DOES NOT HELP ME" },
+    { spanish: "ESTA TIPOGRAFIA NO ME AYUDA", english: "THIS TYPOGRAPHY DOES NOT HELP ME" },
     { spanish: "DONDE COMPRASTE ESOS LENTES", english: "WHERE DID YOU BUY THOSE SUNGLASSES" },
     { spanish: "LOS PERROS HICIERON POPO", english: "THE DOGS DID POP" },
     { spanish: "SOY EXTREMADAMENTE FELIZ", english: "I AM EXTREMELY HAPPY" },

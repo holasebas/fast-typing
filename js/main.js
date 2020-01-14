@@ -370,7 +370,7 @@ $("#try").click(function () {
     // $("#timer").removeClass("show")
 
 
-    step = 14;
+    step = 0;
     pos = 0;
     actualWord = "";
     playing = false;
