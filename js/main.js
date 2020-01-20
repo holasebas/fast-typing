@@ -10,6 +10,7 @@ var abc = [
     "S", "T", "U", "V", "W", "X",
     "Y", "Z"
 ]
+var wordIndex;
 var status = 0;
 var statusResponses = [
     "PERFECT",
@@ -175,7 +176,12 @@ function send() {
                 pos--;
             }
             if ($(this).attr("data-word") == actualWord) {
+              
+                
 
+                set.splice(wordIndex, 1);
+                
+                
                 step++;
                 //STOP GAME
                 if (step == 11) {
@@ -234,6 +240,7 @@ async function nextWord() {
     }
 
     var rand = Math.floor(Math.random() * set.length);
+    wordIndex = rand;
     var nextword;
     if (language) {
         nextword = set[rand].spanish;
