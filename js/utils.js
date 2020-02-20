@@ -40,15 +40,21 @@ var isMobile = {
         return (isMobile.Android() || isMobile.BlackBerry() || isMobile.iOS() || isMobile.Opera() || isMobile.Windows());
     }
 };
-if(isSafari){
-    $(".nop_message").html("GO TO GOOGLE CHROME OR FIREFOX <br> FOR A BETTER EXPERIENCE <br> :D")
-}else{
-    if (!isMobile.any() && !isSafari) {
+
+if(!isMobile.any()){
+
+    if(isSafari){
+        $(".nop_message").html("GO TO GOOGLE CHROME OR FIREFOX <br> FOR A BETTER EXPERIENCE <br> :D");
+    }else{
         $(".stage").removeClass("hide");
         $(".nop").addClass("none");
         readyTo()
     }
 }
+
+
+
+
 
 
 
